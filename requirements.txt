@@ -1,0 +1,8 @@
+requests==2.26.0
+pytest==6.2.4
+assertpy==1.1
+pydantic
+pytest-html
+allure-pytest==2.8.13
+cerberus
+
